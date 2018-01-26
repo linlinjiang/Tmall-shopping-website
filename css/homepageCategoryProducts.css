@@ -63,3 +63,8 @@ img.endpng{
 	width: 82px auto;
 	margin: 0px auto;
 }
+img.catear {
+	position: absolute;
+	height: 15px;
+	display: none;
+}
